@@ -1,0 +1,409 @@
+,uri x,uri y
+0,Indomie Mi Instant Rasa Soto Mie,Indomie Mi Rasa Ayam Special
+1,Indomie Mi Rasa Ayam Bawang,Indomie Mi Rasa Ayam Special
+2,Indomie Mi Rasa Kari Ayam,Indomie Mi Rasa Ayam Special
+3,Indomie Mi Instant Rasa Soto Mie,Indomie Mi Goreng Rendang
+4,Indomie Mi Instant Rasa Soto Mie,Indomie Mi Rasa Ayam Bawang
+5,Indomie Mi Rasa Kari Ayam,Indomie Mi Rasa Ayam Bawang
+6,Indomie Mi Instan Goreng,Indomie Mi Rasa Ayam Bawang
+7,Deka Wafer Crepes Choco Banana,Indomie Mi Rasa Ayam Bawang
+8,Indomie Mi Instant Rasa Soto Mie,Indomie Mi Goreng Rasa Sate
+9,Indomie Mi Instan Goreng,Indomie Mi Goreng Rasa Sate
+10,Indomaret Kacang Kriuk,Indomaret Snack Kacang Atom Shanghai
+11,Indomaret Kacang Bumbu,Indomaret Snack Kacang Atom Shanghai
+12,Indomaret Kacang Kriuk,Dua Kelinci Kacang Sangrai
+13,Indomaret Kacang Bali,Dua Kelinci Kacang Sangrai
+14,Indomaret Kacang Kriuk,Kacang Telor
+15,Garuda Kacang Atom Apc Pedas,Kacang Telor
+16,Indomaret Kacang Kriuk,Potabee Snack Potato Chips Seaweed
+17,Beng Beng Wafer Chocolate,Roma Wafer Wafello Choco Blast
+18,Beng Beng Wafer Chocolate Share It 10 S,Roma Wafer Wafello Choco Blast
+19,Beng Beng Wafer Chocolate,Aik Cheong Teh Tarik
+20,Aik Cheong White Coffee Original,Aik Cheong Teh Tarik
+21,Beng Beng Wafer Chocolate,Good Day Mocca Latte Coffee
+22,Club Air Mineral,Indomaret Air Mineral
+23,Eternalplus Mineral Water,Indomaret Air Mineral
+24,Indomaret Air Oksi,Indomaret Air Mineral
+25,Club Air Mineral,Aqua Air Mineral Click N Go
+26,Eternalplus Mineral Water,Aqua Air Mineral Click N Go
+27,Aqua Galon,Aqua Air Mineral Click N Go
+28,Club Air Mineral,Ades Air Mineral
+29,Aqua Air Mineral,Ades Air Mineral
+30,Bowl Noodle Soup,Ades Air Mineral
+31,Sirup Rasa Vanili,Ades Air Mineral
+32,Budy Jam Coklat,Ades Air Mineral
+33,Kapal Api Coffee Drink White Coffee,Nescafe Kopi Instant Classic
+34,Kapal Api Coffee Drink White Coffee,Golda Coffee Drink Dolce Latte
+35,Indomilk,Frisian Flag Cokelat
+36,Indomilk Kental Manis Putih,Cap Enaak Kental Manis Putih
+37,Frisian Flag Krimer Kental Manis Omela,Cap Enaak Kental Manis Putih
+38,Indomilk Susu Kental Manis Putih,Cap Enaak Kental Manis Putih
+39,Indomilk Kental Manis Putih,Cap Enak Kental Manis Putih
+40,Indomilk Kental Manis Putih,Cap Enaak Kental Manis Coklat
+41,Indomilk Kental Manis Coklat,Cap Enaak Kental Manis Coklat
+42,Adem Sari Air Mineral,Chitato Snack Potato Chips Asli
+43,Chitato Snack Potato Chips Sapi Bumbu Bakar,Chitato Snack Potato Chips Asli
+44,Chitato Snack Potato Chips Ayam Barbeque,Chitato Snack Potato Chips Asli
+45,Chitato Snack Potato Chips Ayam Bumbu,Chitato Snack Potato Chips Asli
+46,Tresno Joyo Madu Tj Murni,Mi Gemez Snack Mie Kering Enaak Premium
+47,Frisian Flag Canister Susu Kental Manis Coklat,Arnott S Nyam Nyam Pop Stix Chocolate
+48,Frisian Flag Canister Susu Kental Manis Coklat,Frisian Flag Krimer Kental Manis Omela
+49,Cap Enaak Kental Manis Coklat,Frisian Flag Krimer Kental Manis Omela
+50,Frisian Flag Kental Manis Putih,Frisian Flag Krimer Kental Manis Omela
+51,Sosro Teh Botol,Frisian Flag Krimer Kental Manis Omela
+52,Glico Biscuit Pocky Choco Banana,Frisian Flag Krimer Kental Manis Omela
+53,Frisian Flag Canister Susu Kental Manis Coklat,Frisian Flag Kental Manis Putih
+54,Tango Wafer Cokelat,Tango Wafer Chocolate
+55,Tango Wafer Cokelat,Nissin Wafer Chocolate
+56,Kusuka Keripik Singkong Original,Kusuka Keripik Singkong Balado
+57,Nola Gluten Free Cookies Choco Chips,Kusuka Keripik Singkong Balado
+58,Kusuka Keripik Singkong Barbeque,Kusuka Keripik Singkong Balado
+59,Kusuka Keripik Singkong Original,Chiki Balls Snack Chocolate
+60,Kraft Sandwich Mini Oreo Chocolate Cream,Chiki Balls Snack Chocolate
+61,Cap Enaak Kental Manis Coklat,Tiga Sapi Kremer Kental Manis
+62,Indomilk Kental Manis Chocolate,Tiga Sapi Kremer Kental Manis
+63,Indomie Mi Rasa Kari Ayam,Tiga Sapi Kremer Kental Manis
+64,Frisian Flag Krimer Kental Manis Omela,Tiga Sapi Kremer Kental Manis
+65,Cap Enaak Kental Manis Coklat,Good Mood Minuman Ekstrak Buah Stroberi
+66,Garuda Pilus Rasa Pedas Spicy Coated Peanuts,Kacang Shanghai Cap Dua Kelinci
+67,Coated Peanuts Garlic Flavor Garuda,Kacang Shanghai Cap Dua Kelinci
+68,Nola Gluten Free Cookies Choco Chips,Aim Crackers Roasted Corn
+69,Eternalplus Mineral Water,Club Air Mineral
+70,Indomaret Air Mineral,Club Air Mineral
+71,Sido Muncul Este Emje Susu,Indomaret Kemplang Mini
+72,Zona Kerupuk Fish Ball Fish Ball Cracker Getes,Zona Telur Gabus Sweet Cookies
+73,Zona Kemplang Ikan,Zona Telur Gabus Sweet Cookies
+74,Sena Roasted Fish Crackers,Zona Telur Gabus Sweet Cookies
+75,Rotary Kacang Atom Flour Coated Peanuts,Zona Telur Gabus Sweet Cookies
+76,Nutrijell Konnyaku Jelly Powder Melon,Nutrijell Konnyaku Jelly Powder Leci
+77,Mizone Break Free Minuman Isotonik Cherry Blossom,Mizone Move On Minuman Isotonik Starfruit
+78,Mizone Mood Up Minuman Isotonik Cranberry,Mizone Move On Minuman Isotonik Starfruit
+79,Monde Biscuit Serena Egg Roll Mini,Pringles Potato Crisps Hot Spicy
+80,Monde Biscuit Serena Egg Roll Mini,Fanta Soft Drink Strawberry
+81,Monde Biscuit Serena Egg Roll Mini,Yeo S Soy Rich
+82,Maya Sardine In Tomato Sauce,X Tragin Minuman Bandrek Plus Jahe Merah
+83,Sosro Teh Botol Less Sugar Jasmine Tea,X Tragin Minuman Bandrek Plus Jahe Merah
+84,Maya Sardine In Tomato Sauce,Dilmah Greean Tea Jasmine Petals 20 S Envelope
+85,Maya Sardine In Tomato Sauce,Indomaret Kuaci Susu
+86,Maya Sardine In Tomato Sauce,Excelso Kopi Bubuk Arabica Gold
+87,Kapal Api Kopi Bubuk Special Mix,Excelso Kopi Bubuk Arabica Gold
+88,Top Coffee Kopi Gula Toraja,Excelso Kopi Bubuk Arabica Gold
+89,Indomilk Kental Manis Chocolate,Indomilk Susu Kental Manis Putih
+90,Tiga Sapi Kremer Kental Manis,Indomilk Susu Kental Manis Putih
+91,Indomaret Cashew Milk Chocolate,Arnott S Biscuit Nyam Nyam Fantasy Stick Choco
+92,Loacker Wafer Quadratini Napolitaner,Loacker Wafer Quadratini Cappuccino
+93,Frisian Flag Kental Manis Putih,Frisian Flag Canister Susu Kental Manis Coklat
+94,Nutrijell Konnyaku Jelly Powder Leci,Nutrijell Konnyaku Jelly Powder Strawberry
+95,Khong Guan Crackers Malkist Abon Sapi,Khong Guan Crackers Cream
+96,Khong Guan Crackers Malkist Abon Sapi,Oreo Biskuit Sandwich Coklat Dengan Krim Rasa Vanila
+97,Khong Guan Crackers Malkist Abon Sapi,Khong Guan Crackers Malkist Seaweed
+98,Khong Guan Crackers Malkist Superco,Khong Guan Crackers Malkist Seaweed
+99,Sedaap Mie Instant Ayam Bawang,Sedaap Mie Instant Ayam Spesial
+100,Sedaap Mie Instant Baso Spesial,Sedaap Mie Instant Ayam Spesial
+101,Indomie Mi Instan Ayam Bawang,Sedaap Mie Instant Ayam Spesial
+102,Sedaap Mie Instant Ayam Bawang,Sedaap Mie Instant Baso Spesial
+103,Sedaap Mie Instant Kari Special,Sedaap Mie Instant Baso Spesial
+104,Sedaap Mie Instant Ayam Bawang Telur,Sedaap Mie Instant Baso Spesial
+105,Sedaap Mie Instant Ayam Spesial,Sedaap Mie Instant Baso Spesial
+106,Sedaap Mie Instant Baso,Sedaap Mie Instant Baso Spesial
+107,Pronas Corned Beef Kornetku,Karuhun Keripik Singkong Original Sp
+108,Sedaap Mie Instant Ayam Bwg Telur,La Fonte Pronto Spaghetti With Chicken Sauce
+109,Kusuka Keripik Singkong Keju Bakar,La Fonte Pronto Spaghetti With Chicken Sauce
+110,Sedaap Mie Instant Ayam Bwg Telur,Aik Cheong Cafe Art Matcha
+111,Aik Cheong Coffeemix Reguler,Aik Cheong Cafe Art Matcha
+112,Kacang Telor,Garuda Kacang Telur
+113,Garuda Kacang Atom Apc Pedas,Garuda Kacang Telur
+114,Cow Fortigro Susu Bubuk Cokelat Polybag,Garuda Kacang Telur
+115,Kacang Telor,Dk Kacang Sukro
+116,Garuda Kacang Atom Apc Pedas,Dk Kacang Sukro
+117,Tao Kae Noi Tempura Seaweed Original,Dk Kacang Sukro
+118,Indomaret Snack Kacang Atom Shanghai,Dk Kacang Sukro
+119,Garuda Kacang Telur,Dk Kacang Sukro
+120,Abc Kopi Susu Coklat Mocca,Abc Kopi Instant Kopi Gula Susu
+121,Keripik Kentang Lays,Abc Kopi Instant Kopi Gula Susu
+122,Aqua Air Mineral Click N Go,A W Soft Drink Sarsaparila
+123,Aqua Air Mineral Click N Go,Lotte Snack Biscuit Koala Chocolate
+124,Aqua Air Mineral Click N Go,Aqua Galon
+125,Indomaret Air Oksi,Aqua Galon
+126,Indomaret Air Mineral,Aqua Galon
+127,Sedaap Mie Instant Kari Special,Skippy Jam Creamy Peanut Butter
+128,Sedaap Mie Instant Kari Special,Munik Bumbu Ayam Goreng
+129,Sedaap Mie Instant Kari Special,Sedaap Mie Instant White Curry
+130,Sedaap Mie Instant Kari Special,Sedaap Mie Instant Ayam Bawang Telur
+131,Sedaap Mie Instant Ayam Spesial,Sedaap Mie Instant Ayam Bawang Telur
+132,Sedaap Mie Instant Baso Spesial,Sedaap Mie Instant Ayam Bawang Telur
+133,Chitato Snack Potato Chips Sapi Bumbu Bakar,Chitato Snack Potato Chips Ayam Barbeque
+134,Beng Beng Wafer Chocolate Share It 10 S,Nextar Choco Brownies
+135,Beng Beng Wafer Chocolate Share It 10 S,Chocopie Marshmallow
+136,Kraft Sandwich Oreo Strawbery Creme,Oishi Snack Pillows Chocolate
+137,Kraft Sandwich Oreo Strawbery Creme,Kraft Sandwich Oreo Coklat Vanila
+138,Arnott S Biscuit Nyam Nyam Fantasy Stick Choco,Kraft Sandwich Oreo Coklat Vanila
+139,Kraft Sandwich Oreo Ice Cream Blueberry,Kraft Sandwich Oreo Coklat Vanila
+140,Indomie Mi Rasa Ayam Bawang,Indomie Mi Instant Rasa Soto Mie
+141,Indomie Mi Rasa Kari Ayam,Indomie Mi Instant Rasa Soto Mie
+142,Kapal Api Coffee Drink Signature Orginal Black Coffee,Indomie Mi Instant Rasa Soto Mie
+143,Indomie Mi Rasa Ayam Special,Indomie Mi Instant Rasa Soto Mie
+144,Happytos Snack Tortilla Chips Jagung Bakar,Indomie Mi Instant Rasa Soto Mie
+145,Indomie Mi Rasa Ayam Bawang,Anmum Susu Bubuk Ibu Hamil Materna Strawberry White Cokelat
+146,Taro Snack Seaweed,Taro Snack Net Potato Barbeque
+147,Taro Snack Seaweed,Taro Snack Net Seaweed
+148,Indomie Mi Rasa Kari Ayam,Kusuka Cassava Chips Seaweed Flavor
+149,Kusuka Cassava Chips Original,Kusuka Cassava Chips Seaweed Flavor
+150,Indomie Mi Rasa Kari Ayam,Indomie Mi Instan Goreng
+151,Indomie Mi Goreng Rasa Sate,Indomie Mi Instan Goreng
+152,Khong Guan Crackers Malkist Superco,Oreo Soft Cake Single
+153,Khong Guan Crackers Malkist Superco,Khong Guan Crackers Saltcheese Regular
+154,Khong Guan Crackers Malkist Superco,Khong Guan Crackers Malkist Abon Sapi
+155,Majorico Wafer Roll Rasa Pisang Coklat,Khong Guan Crackers Malkist Abon Sapi
+156,Khong Guan Crackers Malkist Superco,Tango Wafer Cokelat
+157,X Tragin Minuman Es Kunyit Asam Madu,Ajinomoto Mayonnaise Mayumi
+158,Kolln Crunchy Muesli Honey Nut,Sarimi Goreng Rasa Ayam Kremes Isi 2
+159,Kolln Crunchy Muesli Honey Nut,Gadjah Kopi Tubruk Manis 2 In 1
+160,Margarine Forvita,Gadjah Kopi Tubruk Manis 2 In 1
+161,Top Coffee Kopi Gula Toraja,Gadjah Kopi Tubruk Manis 2 In 1
+162,Nissin Biscuit Kelapa Ijo,Indomaret Madu Asli
+163,Nissin Biscuit Kelapa Ijo,Monde Biskuit Bourbon Cokelat
+164,Monde Biscuit Egg Drops,Monde Biskuit Bourbon Cokelat
+165,Nissin Wafer Chocolate,Monde Biskuit Bourbon Cokelat
+166,Nissin Biscuit Kelapa Ijo,Nissin Walens Blueberry Soes Pck
+167,Garuda Kacang Atom,Gery Kraker Beras Asin
+168,Kraft Sandwich Mini Oreo Strawberry,Gery Kraker Beras Asin
+169,Garuda Kacang Atom,Indomaret Kacang Kriuk
+170,Garuda Kacang Telur,Indomaret Kacang Kriuk
+171,Dua Kelinci Kacang Sangrai,Indomaret Kacang Kriuk
+172,Tiga Sapi Kremer Kental Manis,Indomilk Kental Manis Coklat
+173,Khong Guan Chocolate Wafer Classic,Khong Guan Biscuit Red Assorted
+174,Khong Guan Chocolate Wafer Classic,Khong Guan Crackers Malkist Superco
+175,Khong Guan Crackers Cream,Khong Guan Crackers Malkist Superco
+176,Khong Guan Chocolate Wafer Classic,Nissin Biscuit Kelapa Ijo
+177,Monde Biskuit Bourbon Cokelat,Nissin Biscuit Kelapa Ijo
+178,Monde Biscuit Raisin Pie,Nissin Biscuit Kelapa Ijo
+179,Khong Guan Chocolate Wafer Classic,Nutrijell Konnyaku Jelly Powder Grape
+180,Nutrijell Konnyaku Jelly Powder,Nutrijell Konnyaku Jelly Powder Grape
+181,Selamat Wafer Chocolate Cream,Kit Kat Chocolate 2 Fingers Multipack
+182,Kit Kat Chocolate Chunky,Kit Kat Chocolate 2 Fingers Multipack
+183,Monde Cookies Serena Egg Roll Original,Kapal Api Kopi Bubuk Special
+184,Monde Cookies Serena Egg Roll Original,Monde Cookies Serena Egg Roll Chocolate
+185,Frisian Flag Susu Cair Junio Strawberry,Frisian Flag Susu Cair Junio Cokelat
+186,Wanted Snack Tortilla Chips Original,Wanted Snack Tortilla Chips Chili
+187,Indomaret Air Minum Dengan Oksigen Sporty,Aqua Air Mineral
+188,Ades Air Mineral,Aqua Air Mineral
+189,Indomaret Air Minum Dengan Oksigen Sporty,Espe Larutan Penyegar Leci
+190,Taro Snack Potato Barbeque,Beng Beng Chocolate Drink
+191,Sedaap Mie Instant Ayam Bawang Telur,Sedaap Mie Instant Ayam Bwg Telur
+192,Kraft Sandwich Oreo Peanut Butter Chocolate Cream,Kraft Sandwich Oreo Chocolate Creme
+193,Kraft Sandwich Oreo Coklat Vanila,Kraft Sandwich Oreo Chocolate Creme
+194,Kraft Sandwich Oreo Peanut Butter Chocolate Cream,Nata De Coco Coconut Gel Rasa Manga
+195,Golda Coffee Drink Dolce Latte,Extra Wide Egg Noodles
+196,Kraft Sandwich Mini Oreo Chocolate Cream,Kraft Sandwich Oreo Ice Cream Blueberry
+197,Kraft Sandwich Oreo Chocolate Creme,Kraft Sandwich Oreo Ice Cream Blueberry
+198,Kraft Sandwich Mini Oreo Chocolate Cream,Kraft Sandwich Mini Oreo Strawberry
+199,Tokpoki Korean Rice Cake K Poki Mild,Tokpoki Korean Rice Cake K Poki Spicy Cheese
+200,Kraft Sandwich Oreo Chocolate Creme,Kraft Sandwich Oreo Peanut Butter Chocolate Cream
+201,Kraft Sandwich Oreo Coklat Vanila,Kraft Sandwich Oreo Peanut Butter Chocolate Cream
+202,Monde Biscuit Piebis,Kraft Sandwich Oreo Peanut Butter Chocolate Cream
+203,Kraft Sandwich Oreo Chocolate Creme,Kraft Sandwich Mini Oreo Chocolate Cream
+204,Kraft Sandwich Oreo Chocolate Creme,Kraft Oreo Selection Biscuit Assorted
+205,Kraft Sandwich Oreo Coklat Vanila,Kraft Oreo Selection Biscuit Assorted
+206,Torabika Kopi Instant Gilus Mix Gula Aren,Bertolli Olive Oil Extra Virgin
+207,Torabika Kopi Instant Gilus Mix Gula Aren,Top Coffee Kopi Gula Toraja
+208,Kapal Api Fresco Kopi Krim Susu,Top Coffee Kopi Gula Toraja
+209,Luwak Kopi Bubuk Gula,Top Coffee Kopi Gula Toraja
+210,Torabika Kopi Instant Gilus Mix Gula Aren,Luwak Kopi Bubuk Gula
+211,Kapal Api Kopi Bubuk Special Mix,Luwak Kopi Bubuk Gula
+212,Top Coffee Kopi Gula Toraja,Luwak Kopi Bubuk Gula
+213,Luwak Kopi Bubuk Murni,Luwak Kopi Bubuk Gula
+214,Julie S Sandwich Choco More,Selamat Wafer Chocolate
+215,Glico Biscuit Pocky Chocolate,Selamat Wafer Chocolate
+216,Loacker Wafer Quadratini Chocolate,Loacker Wafer Quadratini Napolitaner
+217,Loacker Wafer Quadratini Vanilla,Loacker Wafer Quadratini Napolitaner
+218,Loacker Wafer Quadratini Chocolate,Greenday For Kids Crispy Broccoli
+219,Nissin Biscuit Gabin,Airborne Honeydew Madu
+220,Indomaret Air Oksi,Garuda Snack Pilus Mi Goreng
+221,Indomaret Air Oksi,Eternalplus Mineral Water
+222,Buavita Juice Slim Apple,Buavita Juice Slim Jambu
+223,Frestea Minuman Teh Green,Universal King Kong Kripik Singkong Bbq Flavor
+224,Frisian Flag Susu Cair Junio Cokelat,East Bali Rosella Hibiscus Tea
+225,Frisian Flag Kental Manis Cokelat,Indomaret Gula Pasir Premium Kuning
+226,Kraft Sandwich Oreo Coklat Vanila,Budy Jam Selai Cokelat
+227,Top Coffee Kopi Cappuccino,Dua Kelinci Hot Nut Chili Flavor Kacang Ala Hawaii
+228,Top Coffee Kopi Cappuccino,Kapal Api Fresco Kopi Krim Susu
+229,Abc Kopi Instant Kopi Gula Susu,Kapal Api Fresco Kopi Krim Susu
+230,Kapal Api Kopi Bubuk Special Mix,Kapal Api Fresco Kopi Krim Susu
+231,Top Coffee Kopi Gula Susu 3 In 1,Kapal Api Fresco Kopi Krim Susu
+232,Sido Muncul Jahe Susu,Kapal Api Fresco Kopi Krim Susu
+233,Abc Kopi Instant Kopi Gula Susu,Luwak White Koffie Tarik Malaka
+234,Garuda Kacang Atom Apc Pedas,Migelas Protevit Rasa Ayam Bawang
+235,Kapal Api Kopi Bubuk Special Mix,Qtela Keripik Singkong Original
+236,Kapal Api Kopi Bubuk Special Mix,Morinaga Chil School Susu Pertumbuhan Vanila
+237,Sosro Teh Botol,Sosro Teh Botol Jasmine Tea
+238,Oishi Snack Poppy Pop Jagung Bakar,Indomaret Snack Kue Dolar
+239,Aqua Galon,Indomaret Air Minum Dengan Oksigen Sporty
+240,Indomaret Air Mineral,Indomaret Air Minum Dengan Oksigen Sporty
+241,Aqua Galon,Pia 100 Kue Pia Kacang Hijau
+242,Piattos Snack Kentang Sambal Matah,Astor Wafer Stick Chocolate
+243,Piattos Snack Kentang Sambal Matah,Anchor Boneeto Susu Bubuk Hi Calcium Creamy Vanilla
+244,Kit Kat Chocolate Chunky,Majorico Wafer Roll Rasa Susu Vanilla
+245,Nissin Walens Choco Soes,Monde Biscuit Egg Drops
+246,Chitato Snack Potato Chips Ayam Barbeque,Chitato Snack Potato Chips Ayam Bumbu
+247,Excelso Kopi Bubuk Arabica Gold,Chitato Snack Potato Chips Ayam Bumbu
+248,Tao Kae Noi Crispy Seaweed Tomato,Indomaret Dehydrated Mix Fruit
+249,Sosro Teh Botol Less Sugar Jasmine Tea,Sosro Teh Botol
+250,Zona Kemplang Ikan,Krupuk Ubi Kayu
+251,Monde Biskuit Bourbon Cokelat,Good Time Mini
+252,Indofood Syrup Freiss Melon,Indofood Syrup Freiss Cocopan
+253,Monde Biscuit Egg Drops,Monde Cookies Serena Egg Roll
+254,Monde Biscuit Egg Drops,Monde Cookies Serena Egg Roll Original
+255,Dk Kacang Sukro,Garuda Kacang Atom
+256,Dk Kacang Sukro,Garuda Kacang Atom Apc Pedas
+257,Roma Biscuit Sari Gandum Sandwich Peanut Butter,Bowl Noodle Soup
+258,Cap Enak Kental Manis Putih,Original Love Juice Guava
+259,Cap Enak Kental Manis Putih,Indomilk Kental Manis Putih
+260,Indofood Saus Tomat,Indomilk Kental Manis Putih
+261,Luwak White Koffie 3 Rasa,Indomilk Kental Manis Putih
+262,Indomaret Gula Pasir Premium Kuning,Indomilk Kental Manis Putih
+263,Kraft Sandwich Mini Oreo Strawberry,Kraft Sandwich Oreo Strawbery Creme
+264,Bintang Zero Soft Drink,Kraft Sandwich Oreo Strawbery Creme
+265,Mizone Move On Minuman Isotonik Starfruit,Mizone Active Minuman Isotonik Lychee Lemon
+266,Tao Kae Noi Tempura Seaweed Original,Tao Kae Noi Tempura Seaweed Spicy
+267,Nissin Wafer Chocolate,Tao Kae Noi Tempura Seaweed Spicy
+268,Excelso Kopi Bubuk Arabica Gold,Kapal Api Kopi Bubuk Special Mix
+269,Luwak Kopi Bubuk Murni,Kapal Api Kopi Bubuk Special Mix
+270,Excelso Kopi Bubuk Arabica Gold,Arnott S Biscuit Venezia Assorted
+271,Top Coffee Kopi Gula Toraja,Torabika Kopi Instant Gilus Mix Gula Aren
+272,Top Coffee Kopi Gula Toraja,Top Coffee Kopi Gula Susu 3 In 1
+273,Minute Maid Juice Pulpy Orange,Top Coffee Kopi Gula Susu 3 In 1
+274,Top Coffee Kopi Gula Toraja,Morisca Lapis Legit Singkong Batang Srikaya
+275,Sarimi Goreng Rasa Ayam Kremes Isi 2,Sarimi Goreng Rasa Ayam Kecap Isi 2
+276,Sarimi Goreng Rasa Ayam Kremes Isi 2,Frestea Minuman Teh Green
+277,Sedaap Mie Instant Goreng Ayam Krispi,Frestea Minuman Teh Green
+278,Good Time Cookies Chocochips Classic,Monde Butter Cookies
+279,Kusuka Keripik Singkong Saos Balado,Kusuka Keripik Singkong Barbeque
+280,Kapal Api Fresco Kopi Krim Susu,Top Coffee Kopi Cappuccino
+281,Top Coffee Kopi Gula Susu 3 In 1,Top Coffee Kopi Cappuccino
+282,Meiji Biscuit Hello Panda Chocolate,Meiji Biscuit Hello Panda Strawberry
+283,Khong Guan Crackers Malkist Salut Cokelat,Roma Crackers Malkist
+284,Roma Crackers Malkist Cokelat,Roma Crackers Malkist
+285,Arnott S Biscuit Nyam Nyam Fantasy Stick Choco,Biscuit Nyam Nyam Fantasy Stick Strawberry
+286,Sedaap Mie Instant Baso,Biscuit Nyam Nyam Fantasy Stick Strawberry
+287,Khong Guan Biscuit Mini Assorted,Khong Guan Biscuit Red Segi Assorted
+288,Samyang Mie Instant Goreng Pedas Ayam Carbonara,Samyang Mie Instant Goreng Extreme
+289,Cap Enaak Kental Manis Putih,Indomilk Kental Manis Chocolate
+290,Deka Wafer Crepes Choco Banana,Indomilk Kental Manis Chocolate
+291,Stt French Fries 2000 Premium,Indomilk Kental Manis Chocolate
+292,Goody Pudding With Nata De Coco 3 S Lychee,Khong Guan Crackers Malkist Salut Cokelat
+293,Kusuka Keripik Singkong Balado,Khong Guan Crackers Malkist Salut Cokelat
+294,Wide Egg Noodles,Enriched Egg Noodles
+295,Nescafe Ice Coffee Original,Nescafe Coffee Latte Drink Eclair
+296,Zona Keripik Tempe Pedas Soy Bean Crips Spicy,Oronamin C Minuman Bervitamin
+297,Indomaret Kacang Bumbu,Indomaret Snack Kacang Panggang
+298,Pazar Sambal Terasi Original,Oishi Snack Stick Makado Saus Tomat
+299,Gaga Sardines Tomat Chilli,Indomaret Malkist Crackers
+300,Indomie My Noodlez Rasa Rumput Laut,Mie Abc Selera Pedas Rasa Sup Tomat Pedas
+301,Kit Kat Chocolate 2 Fingers Single,Indomaret Snack Pang Pang
+302,Kraft Sandwich Oreo Ice Cream Blueberry,Maya Sardines In Tomato Sauce
+303,Regal Marie,Nutriboost Orange
+304,Indomaret Snack Kacang Atom Shanghai,Dua Kelinci Kacang Sukro Bbq
+305,Indomaret Snack Kacang Atom Shanghai,Indomaret Kacang Bumbu
+306,Indomaret Mini Bagelen Cokelat,Nabati Richoco Wafer White
+307,Indomaret Snack Kacang Telur Me,Dua Belibis Saus Cabe
+308,Taro Snack Net Potato Barbeque,Taro Snack Seaweed
+309,Aik Cheong White Coffee Original,Aik Cheong White Coffee Hazelnut
+310,Aik Cheong White Coffee Original,Aik Cheong Coffeemix Reguler
+311,Wanted Snack Tortilla Chips Chili,Wanted Snack Tortilla Chips Original
+312,Luwak Kopi Bubuk Gula,Air Mancur Madurasa Original
+313,Arnott S Biscuit Nyam Nyam Bubble Puff Choco,Beng Beng Wafer Chocolate Share It 10 S
+314,Roma Wafer Wafello Choco Blast,Beng Beng Wafer Chocolate Share It 10 S
+315,Arnott S Biscuit Nyam Nyam Bubble Puff Choco,Oishi Snack Sponge Crunch Chocolate
+316,Meiji Biskuit Yan Yan Chocolate,Krisbee Snack French Fries
+317,Mister Potato Snack Crisps Barbeque,Krisbee Snack French Fries
+318,Meiji Biskuit Yan Yan Chocolate,Kraft Cheese Single High Calcium 10S Plain
+319,Roma Crackers Malkist,Roma Crackers Malkist Cokelat
+320,Roma Arden Cookies Choco Splendid,Roma Crackers Malkist Cokelat
+321,Pho Soup Rice Noodle Soup With Herbs And Beef,Bakalland Crunchy Muesli 5 Seeds Honey
+322,Rotary Kacang Atom Flour Coated Peanuts,Bakalland Crunchy Muesli 5 Seeds Honey
+323,Rebo Kuaci Green Tea,Dua Kelinci Snack Krip Krip Tortilla Jagung Bakar
+324,Monde Cookies Serena Egg Roll Chocolate,Nestle Fitnesse Granola Honey
+325,Kusuka Keripik Singkong Keju Bakar,Kusuka Keripik Singkong Original
+326,Kusuka Keripik Singkong Barbeque,Kusuka Keripik Singkong Original
+327,Selamat Wafer Double Choco,Selamat Wafer Chocolate Cream
+328,Indomie Mi Rasa Ayam Special,Cap Botol Teh Bubuk Biru
+329,Indomie Mi Rasa Ayam Special,Indomaret Rengginang
+330,Biscuit Nyam Nyam Fantasy Stick Strawberry,Arnott S Biscuit Nyam Nyam Fntasy Stick Sparkling Choco
+331,Sarimi Mi Instan Goreng Isi 2 Ayam Kecap,Indomaret Keripik Kelapa Fresh Milk
+332,Anlene Gold Plus Hi Calcium Coklat,Abc Syrup Special Grade Cocopandan
+333,Arnott S Nyam Nyam Pop Stix Chocolate,Abc Syrup Special Grade Cocopandan
+334,Anlene Gold Plus Hi Calcium Coklat,Buavita Juice Slim Mangga
+335,Sedaap Mie Instant Baso Spesial,Sedaap Mie Instant Ayam Bawang
+336,Fruitamin Minuman Coco Bit Lychee,Kusuka Keripik Singkong Saos Balado
+337,Coated Peanuts Garlic Flavor Garuda,Rotary Kacang Atom Flour Coated Peanuts
+338,Indomie Mi Instan Soto Mie,Made With Organic Noodles Asian Noodles Spicy Szechuan
+339,Indomie Mi Instan Soto Mie,Indomie Mi Instan Ayam Bawang
+340,Enriched Egg Noodles,Mariza Chocolate Topping Jam
+341,Enriched Egg Noodles,Lee Kum Kee Pure Sesame Oil
+342,Dua Kelinci Kacang Polong Polongmas Ayam Bawang,Zona Kemplang Ikan
+343,Indomaret Air Mineral,Indomie Mi Rasa Kari Ayam
+344,Indomaret Air Mineral,Indomaret Air Oksi
+345,Nissin Wafer Chocolate,Khong Guan Chocolate Wafer Classic
+346,Monde Biscuit Bourbon Black Vanila,Mister Potato Snack Crisps Barbeque
+347,Sirup Rasa Vanili,Indomie Mi Instan Soto Mie
+348,Pororo Minuman Berperisa Susu,Pororo Minuman Berperisa Stroberi
+349,Zona Spicy Macaroni Crisps Makaroni Pedas,Happytos Snack Tortilla Chips Nacho Cheese
+350,Universal King Kong Kripik Singkong Bbq Flavor,Kusuka Cassava Chips Original
+351,Sukses S Mie Goreng Isi 2 Ayam Kecap,Sukses S Mie Goreng Isi 2 Ayam Kremes
+352,Cocona Nata De Coco,Twister Minis Black
+353,Cocona Nata De Coco,Wong Coco Sari Kelapa
+354,Zona Sunpia Udang Prawn Spring Rolls,Olatte Minuman Milky Fruity Peach
+355,Rotary Kacang Atom Flour Coated Peanuts,Coated Peanuts Garlic Flavor Garuda
+356,Deka Wafer Roll Choconut,Nola Gluten Free Cookies Dark Chocolate
+357,Sedaap Mie Instant White Curry,Sedaap Mie Instant Kari Special
+358,Fitchips Multigrain Chips Cheese Herbs,Tim Tam Chocolate
+359,Gery Wafer Roll Chocolatos Dark,Chocolatos Wafer Roll Dark
+360,Pop Mie Rasa Baso,Picnic Dodol Garut
+361,Khong Guan Crackers Cream,Roma Crackers Cream
+362,Arnott S Biscuit Venezia Assorted,Roma Biscuit Sandwich Peanut Butter
+363,Nano Nano Candy Milky Coklat,Nano Nano Candy Milky Vanilla
+364,Monde Biscuit Genji Pie,Monde Biscuit Raisin Pie
+365,Fanta Soft Drink Strawberry,Mamasuka Rumput Laut Panggang Nori
+366,Chocolatos Wafer Roll Dark,Potabee Snack Potato Chips Bbq
+367,Kusuka Cassava Chips Seaweed Flavor,Zona Keripik Makaroni Macaroni Crisps
+368,Singabera Premium Ginger Drink Lemongrass Ginger,Singabera Premium Ginger Drink Cinnamon Ginger
+369,Tango Wafer Chocolate,Abc Kecap Manis Reffil
+370,Indomilk Susu Cair Uht Plain,Rebo Kuaci Green Tea
+371,Aik Cheong Coffeemix Reguler,Aik Cheong White Coffee Original
+372,Aik Cheong Cafe Art Matcha,Aik Cheong White Coffee Original
+373,Anmum Susu Bubuk Ibu Menyusui Lacta Cokelat,Marjan Syrup Melon
+374,Dua Kelinci Hot Nut Chili Flavor Kacang Ala Hawaii,Lotte Chewing Gum Sugar Free Xylitol Fresh Mint
+375,Diamond Juice Unsweet Orange,Lotte Chewing Gum Sugar Free Xylitol Fresh Mint
+376,Aik Cheong Teh Tarik,Dua Kelinci Snack Krip Krip Tortilla Sapi Panggang
+377,Aik Cheong Teh Tarik,Superstar Wafer Triple Chocolate
+378,Selamat Wafer Chocolate,Rocho Wafer Bola Cokelat Kacang
+379,Sedaap Mie Instant Baso,Al Shifa Natural Honey
+380,San Carlo Keripik Kentang Piu Gusto Lime,Pazar Sambal Terasi Original
+381,Pop Mie Rasa Ayam Bawang,Pop Mie Rasa Soto Ayam
+382,Nestle Cereal Breakfast Koko Krunch,Nestle Cereal Breakfast Combo Pack Koko Krunch
+383,Dilmah Green Tea Jasmine Petals 20 S,Thai Rice Stir Fry Noodles
+384,Khong Guan Crackers Malkist Seaweed,Indofood Sambal Ala Bangkok Asam Manis
+385,Dua Kelinci Deka Wafer Roll Chocobanana,Wafer Selamat Chocolate
+386,Sirup Marjan Rasa Melon,Sirup Rasa Vanili
+387,Good Day White Cappuccino,Indomie Keriting Goreng Spesial
+388,Monde Biscuit Butter Cookies,Indomie Keriting Goreng Spesial
+389,Enriched Noodle Product Wide Egg Noodles,Monde Biscuit Butter Cookies
+390,Monde Selected Biscuit,Monde Biscuit Butter Cookies
+391,Oishi Snack Sponge Crunch Chocolate,Oishi Snack Sponge Crunch Strawberry
+392,Oishi Snack Pillows Chocolate,Bon Cabe Snack Makaroni Level 15
+393,Indomaret Keripik Kelapa Fresh Milk,Indomaret Keripik Kelapa Brown Sugar
+394,Qtela Keripik Tempe Original,Gaga Sardines Tomat Chilli
+395,Indofood Syrup Freiss Cocopan,Tango Wafer Bubblegum
+396,La Fonte Pronto Spaghetti With Chicken Sauce,La Fonte Spaghetti With Mushroom Sauce
+397,Sedaap Mie Instant Kari Ayam,Abc Sweet Soy Sauce Kecap Manis
+398,King S Fisher Sarden Goreng Balado,Gaga Sardines Chili Tomato
+399,Tao Kae Noi Crispy Seaweed Big Sheet Classic,Tao Kae Noi Crispy Seaweed Hot Spicy
+400,Zona Telur Gabus Sweet Cookies,Zona Kerupuk Fish Ball Fish Ball Cracker Getes
+401,Zona Keripik Makaroni Macaroni Crisps,Dua Kelinci Kacang Sukro Bersalut Kedele
+402,Muria Telur Ikan,Biskuat Biscuit Energi Coklat
+403,Big Babol Filifolly Gum,Buavita Juice Slim Apple
+404,Kusuka Keripik Singkong Ayam Lada Hitam,Indomaret Emping Udang
+405,Nescafe Coffee Cream,Kusuka Keripik Singkong Rumput Laut
+406,Roma Crackers Malkist Cappuccino,Fitchips Multigrain Chips Seaweed
+407,Indomaret Dehydrated Mix Fruit,Indomaret Dehydrated Fruit Mangga
